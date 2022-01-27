@@ -1,9 +1,6 @@
-## Youtube channel
+## YouTube channel
 
 This application was created for my channel https://www.youtube.com/watch?v=E70ZlTukmhg
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
 
 # ModelImport
 
